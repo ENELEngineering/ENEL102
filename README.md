@@ -1,2 +1,3 @@
 # ENEL102
-This repository will contain assignments for ENEL 102
+This is the fourth assignment of ENEL 102 providing excercises to using scipy methods to solve integration 
+and solving for ordinary differential equations. 
